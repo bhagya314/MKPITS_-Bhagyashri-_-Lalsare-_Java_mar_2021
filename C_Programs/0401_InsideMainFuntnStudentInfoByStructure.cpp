@@ -1,0 +1,28 @@
+//structure declared inside main function
+//wap to accept rollno, studentname, marks of 5 subject(in an array)
+//then display total,per,grade.
+
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+
+int main()
+{
+	struct employee
+	{
+		char name[10];
+		char gender;
+		int age;
+	};
+
+	struct employee emp1;
+
+	strcpy(emp1.name,"ravi");
+	emp1.gender='m';
+	emp1.age=22;
+	printf("\n name =%s",emp1.name);
+	printf("\n gender=%c",emp1.gender);
+	printf("\n age=%d",emp1.age);
+
+}
+
