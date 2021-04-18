@@ -1,8 +1,8 @@
-//2 - for eg. create a class student having member variable rno and name
+//for eg. create a class student having member variable rno and name
 //and member functions getdata and showdata.
 
-import java.util.*;
-public class student
+import java.util.Scanner;
+public class StudentNameRollNo
 {
     int rno;
     String name;
@@ -20,7 +20,7 @@ public class student
     public static void main(String args [])
     {
         Scanner s=new Scanner(System.in);
-        student stud=new student();
+        StudentNameRollNo stud=new StudentNameRollNo();
         System.out.println("enter rno and name");
         int r=s.nextInt();
         String n=s.next();

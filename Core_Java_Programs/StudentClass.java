@@ -1,16 +1,18 @@
+//another example of student class
 
-public class student2
+
+public class StudentClass
 {
     public static void main(String[] arg)
 
     {
-        Student s1=new Student();
+        Student1 s1=new Student1();
         s1.getstudentdata(123,"amit");
         s1.displaystudentdata();
     }
 }
 
-class Student
+class Student1
 {
     int rno;
     String name;
