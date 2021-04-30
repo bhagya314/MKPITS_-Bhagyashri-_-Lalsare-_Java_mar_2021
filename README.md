@@ -12,3 +12,14 @@ interface in Java 23rd April
 
 5:- Multiple inheritance is not supported through class in java, but it is possible by an interface, why?
 
+6:-As you can see in the above example, Printable and Showable interface have same methods but its implementation is provided by class TestTnterface1, so there is no ambiguity.A    class implements an interface, but one interface extends another interface.
+
+7:-Java Default Method in Interface.
+
+8:-Java 8 Static Method in Interface.
+
+9:-ex Difference between abstract class and interface .
+
+10:-Example of abstract class and interface in Java Let's see a simple example where we are using interface and abstract class both.
+
+
