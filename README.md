@@ -72,6 +72,7 @@ example of java instanceof operator.
 example given below where we apply instanceof operator with the variable that have null value. 
 
 instance example with null value 
+
          DownCasting 
 downcasting with instance of operator  
 
