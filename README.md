@@ -64,5 +64,15 @@ John 1999 26B- WallsStreat
 
 11.Add two distances in inch-feet by creating a class named 'AddDistance'.
 
+          InstanceOperator 
+the simple example of instance operator where it tests the current class. 
+
+example of java instanceof operator. 
+
+example given below where we apply instanceof operator with the variable that have null value. 
+
+instance example with null value
+
+
 
 
