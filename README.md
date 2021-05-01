@@ -71,7 +71,15 @@ example of java instanceof operator.
 
 example given below where we apply instanceof operator with the variable that have null value. 
 
-instance example with null value
+instance example with null value 
+         DownCasting 
+downcasting with instance of operator  
+
+example of realtime downcasting example  
+
+downcasting example with accepting actype from the user 
+
+the real use of instanceof keyword by the example given below.
 
 
 
