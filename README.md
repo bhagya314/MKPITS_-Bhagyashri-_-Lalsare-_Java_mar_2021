@@ -82,6 +82,15 @@ downcasting example with accepting actype from the user
 
 the real use of instanceof keyword by the example given below.
 
-
-
-
+             AccessModifiers  Encapsulation  ObjectClass  object cloning
+Private access modifier ex 
+example of default modifier
+Private: The access level of a private modifier is only within the class. It cannot be accessed from outside the class.
+Private access modifier ex
+A Java class which is a fully encapsulated class. data member and getter and setter methods.
+Another Example of Encapsulation in Java
+another example of encapsulation that has only four fields with its setter and getter methods.
+A Java class to test the encapsulated class Account.
+A Java class to test the encapsulated class Account.
+the simple example of object cloning
+the simple example of object cloning
