@@ -1,10 +1,82 @@
-# MKPITS_-Bhagyashri-_-Lalsare-_Java_mar_2021
-
+# MKPITS_-Bhagyashri-_-Lalsare-_Java_mar_2021 
+          C-Programs in Java
+1.:-basic program to print hello
+2.Write a C program to check whether an alphabet is a vowel or consonant
+3.wap to accept radius and then calculate and print area and circumference of a circle (area = 3.14f * radius * radius, circ= 2 * 3.14f * radius)
+4.wap to accept a number and print the armstrong no.
+5.20. Write a program in C to display the pattern like right angle triangle using an asterisk.
+        The pattern like :
+        *
+        **
+        ***
+        ****
+ 6.:- wap to println output like given below using nested for loop.
+        *
+        *	*
+        *	*	*       
+7.:-wap to accept salary of 10 employee using for loop and then display the average salary.
+8.wap to accept age of 5 student calculate and display the average age using while loop.
+9.WAP TO ACCEPT NUMOFYEARSWITHUS AND BIZDONE WITH US AND DISPLAY MSG "CLASSIFIED AS MVS" IF NUMOFYEARSWITHUS IS GREATER THAN 10 YEARS AND BIZDONE IS MORE THAN 5000000 OTHERWISE DISPLAY MSG "LITTE MORE EFFORT IS REQUIRED".
+10.WAP TO ACCEPT BASIC SALARY FROM THE USER AND CALCULATE HRA(17% OF BASIC) , DA(28% OF BASIC) , TA(56% OF BASIC) AND TOTAL SALARY.
+11.wap to accept length, breadth and height and calculate and display volume.
+12.10 Write a program in C to read any day number in integer and display day name in the word.
+13.Write a program in C to read any Month Number in integer and display the number of days for this month.
+14.Write a program in C to accept a grade and declare the equivalent description :
+        Grade 	Description
+        E 	Excellent
+        V 	Very Good
+        G 	Good
+        A 	Average
+        F 	Fail
+15.:-Write a program in C to display the number in reverse order.8Input a number: 123.
+16.wap to accept rollno, studentname, marks of 5 subject(in an array) then display total,per,grade.
+17.Write a C program to find the sum of first 10 natural numbers.
+18.Write a program in C to display the n terms of odd natural number and their sum.
+19.WAP TO ACCEPT SALARY OF 5 EMPLOYEES AND DISPLAY THE TOTAL SALARY USING DO WHILE LOOP.
+20.30 Write a program in C to find the number and sum of all integer between 100 and 200 which are divisible by 9. Numbers between 100 and 200, divisible by 9 
+21.wap to create a float array 0f 10 elements to store salary of 10 employees.
+22.WAP TO ACCEPT A NUMBER AND PRINT FACTORAIL OF A NUMBER USING DO WHILE LOOP.
+23.Write a program in C to display the first n terms of Fibonacci series.Input number of terms to display : 10
+24.Write a program in C to find the prime numbers within a range of numbers. Input starting number of range: 1 Input ending number of range : 50
+25.Write a program in C to display the first 10 natural numbers.
+26.wap to accept 2 numbers from the user and display the greater number.(if else).
+27.wap to accept 3 no. and display the greater no.
+28.wap to create array 10 elements accept 10 no. from the user and store it in an array then accept a no. from the user to search in an array.(linear search)
+29.wap to declare a long int variable to store large no.
+30.Write a program in C to read any Month Number in integer and display Month name in the word.
+31.wap to accept 3 numbers and print the multiplication of 3 no.
+32.wap to create  a array of 5 element then multiply the elements of array and then display it.
+33.wap to do multiplication of 2 matrix into 3 matrix of 2d array of 3 rows and 3 column.
+34.Write a program in C to display the multiplication table of a given integer.
+35.wap to accept a number and print whether it is a natural no.
+36.WAP TO PRINT NO. FROM 50 TO 30 USING DO WHILE LOOP.
+37.Write a program in C to display the pattern like right angle triangle with a number.
+       The pattern like :
+        1
+        12
+        123
+        1234
+38.:-wap to print the pattern given below
+        1
+        1	 3
+        1	 3 5
+39.wap to print the pattern as given below
+        1	2	3
+        1	2
+        1
+40.:-write a program whether number is palindrome or not 
+41. Write a program in C to make such a pattern like right angle triangle with number increased by 1.
+        The pattern like :
+        1
+        2 3
+        4 5 6
+        7 8 9 10
+        
 interface in Java 23rd April
 
 1:- ex : create an interface shape having method declaration for draw method.
 
-2:-In this example, the Drawable interface has only one method. Its implementation is provided by Rectangle and Circle classes.
+2:-In this example, the Drawable interface has
 
 3:-example of java interface which provides the implementation of Bank interface.
 
