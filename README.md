@@ -299,9 +299,57 @@ and anohter constructor to copy values of one object to another object. and disp
                       19th april method overloading
 139.:-Method Overloading: changing data type of arguments.
 140.Method Overloading: changing no. of arguments.
+                      Aggregation
 141.In this example, Employee has an object of Address, address object contains its own informations such
 as city, state, country etc.
 142.:-this example, we have created the reference of Operation class in the Circle class.
+           20th april MethodOverriding
+143.:-create a class account having field accountno , bal and  method deposit and withdrawl.create a subclass saving inherited from account class and override the deposit and withdrawl method.create a subclass current  inherited from account  and override the deposit and withdrawl method.
+144.example of hiearchical inheritance
+145.ex. of hiearchiechal inheritance in method overriding.
+146.create a class account having field accountno , bal and  method deposit and withdrawl.create a subclass saving and override the deposit and withdrawl method.
+147.example of hiearchical inheritance vehical.
+                      Polymorphism
+148.example of runtime polymorphism using account, saving and current class.
+149.we are creating two classes Bike and Splendor. Splendor class extends Bike class andoverrides its run() method. We are calling the run method by the reference variable of Parent class.Since it refers to the subclass object and subclass method overrides the Parent class method, the subclass method is invoked at runtime.
+150.:-Java Runtime Polymorphism Example: Animal.
+151.Runtime Polymorphism Example: Bank.
+152.Runtime Polymorphism Example: Shape.
+153.creating two classes Bike and Splendor. Splendor class extends Bike class and overrides its run() method.
+           22 april superkey 
+154.Covarientreturntype.java.
+155.super is used to refer immediate parent class instance variable.We can use super keyword to access the data member or field of parent class. It is used if parent class
+and child class have same fields.
+156.:-In the above example, Animal and Dog both classes have a common property color. If we print color
+property, it will print the color of current class by default. To access the parent property, we need to use super keyword.
+157.:-super can be used to invoke parent class method.
+158.Super key word example
+159.uper is used to invoke parent class constructor.The super keyword can also be used to invoke the parent class constructor. Let's see a simple example:
+160.example of super keyword
+161.Another example of super keyword where super() is provided by the compiler implicitly.
+162.super example: real used
+Let's see the real use of super keyword. Here, Emp class inherits Person class so all the properties of Person will be inherited to Emp by default. To initialize all the property, we are using parent class constructor from child class. In such way, we are reusing the parent class constructor.
+163.:-create a parent class account having fields accountno and balance. and constructor with 2 parameters create a subclass saving inherited from account class having fields interest and constructor with 3 parameters and from this call parent class constructor.and a display method, deposit method and withdrawl method.
+                     
+                     final keyword
+164.final parameter If you declare any parameter as final, you cannot change the value of it.
+165.example of final keyword.
+166.another  example of final keyword
+167.ava final method If you make any method as final, you cannot override it.
+168.Is final method inherited?
+ Yes, final method is inherited but you cannot override it. For Example:
+169.:-What is blank or uninitialized final variable?A final variable that is not initialized at the time of declaration is known as blank final variable.Example of blank final variable
+170.:-Example of static blank final variable.
+
+           Instance   Initializer   Block
+171.Example of instance initializer block.
+172.Example of instance initializer block two.
+173.InstanceBlockEx2.
+174.instance initializer block that is invoked after super.
+175.example of instance block.
+
+           23rd April
+176.
 
 
 
