@@ -202,8 +202,43 @@
 77.WAP to to print and display square of number.
 
 78.WAP program for return type argument.
+                      7th may DataType
 
-79.
+79.:-wap to use arraycopy method to copy some characters from one array to another array.
+
+80.Boolean data type.
+
+81.wap to accept number of byte datatype.
+
+82.array with initilization.
+
+83.wap to create a integer of 5 elements to store 5 numbers.
+
+84.Char Daatatype.
+
+85.wap to use copyofrange method of array class to copy some characters from one array to another array.
+
+86.Double Data Type.
+
+87.wap to create a float array of 5 elements and accept the elements from the user.
+
+88.Float data type.
+
+89.Int Datatype.
+
+90.wap to find length of an array.
+
+91.Long Data type.
+
+92.short datatype.
+
+93.wap to create a string array of 5 elements to store 5.
+
+94.String data type.
+
+95.wap to create 2 d array of 3 rows and 3 columns to store 9 numbers.
+
+96.create a 2 array of 2 rows and 3 columns in java.
 
 
 
