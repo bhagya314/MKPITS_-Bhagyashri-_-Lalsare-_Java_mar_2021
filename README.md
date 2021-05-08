@@ -291,6 +291,7 @@
 117.intilizing using constructor.
  
                       14th april 
+                      
 118.array of object example.
 
 119.default constructor.
@@ -345,6 +346,7 @@ and anohter constructor to copy values of one object to another object. and disp
 139.:-Method Overloading: changing data type of arguments.
 
 140.Method Overloading: changing no. of arguments.
+
                       Aggregation
 
 141.In this example, Employee has an object of Address, address object contains its own informations such
@@ -363,7 +365,7 @@ as city, state, country etc.
 
 147.example of hiearchical inheritance vehical.
 
-           Polymorphism
+            Polymorphism
 
 148.example of runtime polymorphism using account, saving and current class.
 
@@ -377,7 +379,7 @@ as city, state, country etc.
 
 153.creating two classes Bike and Splendor. Splendor class extends Bike class and overrides its run() method.
 
-           22 april superkey 
+                      22 april superkey 
 
 154.Covarientreturntype.java.
 
@@ -470,85 +472,86 @@ Let's see the real use of super keyword. Here, Emp class inherits Person class s
 
 193:-Example of abstract class and interface in Java Let's see a simple example where we are using interface and abstract class both.
 
-24th april Oops Assignment
+                      24th april Oops Assignment
 
-1.Create a class named 'Student' with String variable 'name' and integer variable 'roll_no'. Assign the value
+194.Create a class named 'Student' with String variable 'name' and integer variable 'roll_no'. Assign the value
 of roll_no as '2' and that of name as "John" by creating an object of the class Student.
 
-2.Assign and print the roll number, phone number and address of two students having names "Sam" and
+195.:-Assign and print the roll number, phone number and address of two students having names "Sam" and
 "John" respectively by creating two objects of class 'Student'.
 
-3.Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units by creating
+196.:-Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units by creating
 a class named 'Triangle' without any parameter in its constructor.
 
-4.Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units by creating
+197.:-Write a program to print the area and perimeter of a triangle having sides of 3, 4 and 5 units by creating
 a class named 'Triangle' with constructor having the three sides as its parameters.
 
-5.Write a program to print the area of two rectangles having sides (4,5) and (5,8) respectively by creating a
+198.:-Write a program to print the area of two rectangles having sides (4,5) and (5,8) respectively by creating a
 class named 'Rectangle' with a method named 'Area' which returns the area and length and breadth
 passed as parameters to its constructor.
 
-6.Write a program to print the area of a rectangle by creating a class named 'Area' having two methods.
+199.:-Write a program to print the area of a rectangle by creating a class named 'Area' having two methods.
 First method named as 'setDim' takes length and breadth of rectangle as parameters and the second
 method named as 'getArea' returns the area of the rectangle. Length and breadth of rectangle are
 entered through keyboard.
 
-7.Write a program to print the area of a rectangle by creating a class named 'Area' taking the values of its
+200.:-Write a program to print the area of a rectangle by creating a class named 'Area' taking the values of its
 length and breadth as parameters of its constructor and having a method named 'returnArea' which
 returns the area of the rectangle. Length and breadth of rectangle are entered through keyboard.
 
-8.Print the average of three numbers entered by user by creating a class named 'Average' having a
+201.:-Print the average of three numbers entered by user by creating a class named 'Average' having a
 method to calculate and print the average.
 
-9.Print the sum, difference and product of two complex numbers by creating a class named 'Complex' with
+202.:-Print the sum, difference and product of two complex numbers by creating a class named 'Complex' with
 separate methods for each operation whose real and imaginary parts are entered by user.
 
-10.Write a program that would print the information (name, year of joining, salary, address) of three
-employees by creating a class named 'Employee'. The output should be as follows:
-Name Year of joining Address
-Robert 1994 64C- WallsStreat
-Sam 2000 68D- WallsStreat
-John 1999 26B- WallsStreat
+203.:-Write a program that would print the information (name, year of joining, salary, address) of three
+      employees by creating a class named 'Employee'. The output should be as follows:
+           Name Year of joining Address
+           Robert 1994 64C- WallsStreat
+           Sam 2000 68D- WallsStreat
+           John 1999 26B- WallsStreat
 
-11.Add two distances in inch-feet by creating a class named 'AddDistance'.
+204.:-Add two distances in inch-feet by creating a class named 'AddDistance'.
 
-          InstanceOperator 
-the simple example of instance operator where it tests the current class. 
+         26th april  InstanceOperator 
+205.:-the simple example of instance operator where it tests the current class. 
 
-example of java instanceof operator. 
+206.:-example of java instanceof operator. 
 
-example given below where we apply instanceof operator with the variable that have null value. 
+207.:-example given below where we apply instanceof operator with the variable that have null value. 
 
-instance example with null value 
+208.:-instance example with null value 
 
          DownCasting 
-downcasting with instance of operator  
+209.:-downcasting with instance of operator  
 
-example of realtime downcasting example  
+210.:-example of realtime downcasting example  
 
-downcasting example with accepting actype from the user 
+211.:-downcasting example with accepting actype from the user 
 
-the real use of instanceof keyword by the example given below.
+212.:-the real use of instanceof keyword by the example given below.
 
-             AccessModifiers  Encapsulation  ObjectClass  object cloning
-Private access modifier ex 
+            27th april  AccessModifiers  Encapsulation  ObjectClass  object cloning
+213.:-Private access modifier ex 
 
-example of default modifier
+214.example of default modifier
 
-Private: The access level of a private modifier is only within the class. It cannot be accessed from outside the class.
+215.Private: The access level of a private modifier is only within the class. It cannot be accessed from outside the class.
 
-Private access modifier ex
+216.Private access modifier ex
 
-A Java class which is a fully encapsulated class. data member and getter and setter methods.
+217.A Java class which is a fully encapsulated class. data member and getter and setter methods.
 
-Another Example of Encapsulation in Java
+218.Another Example of Encapsulation in Java
 
-another example of encapsulation that has only four fields with its setter and getter methods.
+219.another example of encapsulation that has only four fields with its setter and getter methods.
 
-A Java class to test the encapsulated class Account.
+220.A Java class to test the encapsulated class Account.
 
-A Java class to test the encapsulated class Account.
+221.A Java class to test the encapsulated class Account.
 
-the simple example of object cloning
+222.the simple example of object cloning
 
-the simple example of object cloning
+223.the simple example of object cloning.
+224.
