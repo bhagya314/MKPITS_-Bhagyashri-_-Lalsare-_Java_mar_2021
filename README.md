@@ -202,6 +202,7 @@
 77.WAP to to print and display square of number.
 
 78.WAP program for return type argument.
+
                       7th may DataType
 
 79.:-wap to use arraycopy method to copy some characters from one array to another array.
@@ -241,141 +242,233 @@
 96.create a 2 array of 2 rows and 3 columns in java.
 
            8th may
+
 97.wap to create an array of 3 element and display the array element using for each loop.
+
 98.wap to ask whether to continue or not using do while loop.
+
 99.call by value example.
+
 100.char array.
+
 101.wap to accept designation and calculate bonus using switch.
+
 102.WAP to display array element by for loop.
+
 103.user defined function in java wap to create a function sayhello.
+
 104.function with returning value and no parameters.
+
 105.create a non static sayhello method.
+
 106.function with arguments and no return type.
+
 107.wap to accept 2 no. and operator and display the result. using switch.
+
 108.wap to println output like given below using nested for loop.
                       *
                       * *
                       * * *
- 109.:-wap to accept a no and print table of that number using for loop.
- 110.function with return type and with arguments.
- 111.accept the value from the user.
-    13th april
- 112.WAP for employee class.
- 113.create a class student having fields id and name.
- 114.create a program to used student class in different class.
- 115.example of multiple objects.
- 116.program using initilizing using method.
- 117.intilizing using constructor.
+
+109.:-wap to accept a no and print table of that number using for loop.
+
+110.function with return type and with arguments.
+
+111.accept the value from the user.
+    
+                      13th april
+
+112.WAP for employee class.
+
+113.create a class student having fields id and name.
+
+114.create a program to used student class in different class.
+
+115.example of multiple objects.
+
+116.program using initilizing using method.
+
+117.intilizing using constructor.
  
-           14th april 
- 118.array of object example.
- 119.default constructor.
- 120.exmple of copy ing the values of object to another object using constructor create a class book having fields booname and author and constructor with 2 parameters
+                      14th april 
+118.array of object example.
+
+119.default constructor.
+
+120.exmple of copy ing the values of object to another object using constructor create a class book having fields booname and author and constructor with 2 parameters
 and anohter constructor to copy values of one object to another object. and display method.
+
 121.:-example of copying values without constructor.
+
 122.static variable example.
+
 123.class having constructor and method with the same name of class.. overloading.
+
 124.array of object by accepting values from the user.
 
            15th april This KeyWord          
+
 125.example of calling another constructor using this keyword.
+
 126.constructor chaning example.
+
 127.create a class customer having field custno and custname and method getdata and showdata.
+
 128.to invoke current class constructor.
+
 129.example of this to call method.
+
 130.calling parameterized constrctor from default constructor using this key word.
+
 131.to refer to current class method.
+
 132.constructor chaining.
 
-           16th april 
+   
+                      16th april 
+
 133.:-create a parent class person having field name and address , create a derived class student inherited from person class having additional fields rno and marks.
+
 134.create a parent class person having field name and address and create a derived class student inherited from person class having additional fields rno and marks. and methods getstudentddata and displaystudent data.
+
 135.create a parent class person having field name and address and methods getpersondata and displaypersondata and create a derived class student inherited from person class having additional fields rno and marks. and methods getstudentddata and displaystudent data.
+
 136.calling getpersondata method from getstudentdata method .
+
 137.example of multilevel inheritance
   create a class person , then create a class student derived from person class and then create a class parttimestudent derieved from student class.
+
 138.:-example of hierarchical inheritance.
   create a base class person and create a student class derieved from person class and create another class employee derieved from person class  
                       19th april method overloading
+
 139.:-Method Overloading: changing data type of arguments.
+
 140.Method Overloading: changing no. of arguments.
                       Aggregation
+
 141.In this example, Employee has an object of Address, address object contains its own informations such
 as city, state, country etc.
+
 142.:-this example, we have created the reference of Operation class in the Circle class.
            20th april MethodOverriding
+
 143.:-create a class account having field accountno , bal and  method deposit and withdrawl.create a subclass saving inherited from account class and override the deposit and withdrawl method.create a subclass current  inherited from account  and override the deposit and withdrawl method.
+
 144.example of hiearchical inheritance
+
 145.ex. of hiearchiechal inheritance in method overriding.
+
 146.create a class account having field accountno , bal and  method deposit and withdrawl.create a subclass saving and override the deposit and withdrawl method.
+
 147.example of hiearchical inheritance vehical.
-                      Polymorphism
+
+           Polymorphism
+
 148.example of runtime polymorphism using account, saving and current class.
+
 149.we are creating two classes Bike and Splendor. Splendor class extends Bike class andoverrides its run() method. We are calling the run method by the reference variable of Parent class.Since it refers to the subclass object and subclass method overrides the Parent class method, the subclass method is invoked at runtime.
+
 150.:-Java Runtime Polymorphism Example: Animal.
+
 151.Runtime Polymorphism Example: Bank.
+
 152.Runtime Polymorphism Example: Shape.
+
 153.creating two classes Bike and Splendor. Splendor class extends Bike class and overrides its run() method.
+
            22 april superkey 
+
 154.Covarientreturntype.java.
+
 155.super is used to refer immediate parent class instance variable.We can use super keyword to access the data member or field of parent class. It is used if parent class
 and child class have same fields.
+
 156.:-In the above example, Animal and Dog both classes have a common property color. If we print color
 property, it will print the color of current class by default. To access the parent property, we need to use super keyword.
+
 157.:-super can be used to invoke parent class method.
+
 158.Super key word example
+
 159.uper is used to invoke parent class constructor.The super keyword can also be used to invoke the parent class constructor. Let's see a simple example:
+
 160.example of super keyword
+
 161.Another example of super keyword where super() is provided by the compiler implicitly.
+
 162.super example: real used
 Let's see the real use of super keyword. Here, Emp class inherits Person class so all the properties of Person will be inherited to Emp by default. To initialize all the property, we are using parent class constructor from child class. In such way, we are reusing the parent class constructor.
+
 163.:-create a parent class account having fields accountno and balance. and constructor with 2 parameters create a subclass saving inherited from account class having fields interest and constructor with 3 parameters and from this call parent class constructor.and a display method, deposit method and withdrawl method.
                      
                      final keyword
+
 164.final parameter If you declare any parameter as final, you cannot change the value of it.
+
 165.example of final keyword.
+
 166.another  example of final keyword
+
 167.ava final method If you make any method as final, you cannot override it.
+
 168.Is final method inherited?
  Yes, final method is inherited but you cannot override it. For Example:
+
 169.:-What is blank or uninitialized final variable?A final variable that is not initialized at the time of declaration is known as blank final variable.Example of blank final variable
+
 170.:-Example of static blank final variable.
 
            Instance   Initializer   Block
+
 171.Example of instance initializer block.
+
 172.Example of instance initializer block two.
+
 173.InstanceBlockEx2.
+
 174.instance initializer block that is invoked after super.
+
 175.example of instance block.
 
-           23rd April
-176.
+  
+           23rd April Static Dynamic Binding
 
+176.Example of dynamic binding.
 
+177.Another Example of static binding.
 
+178.Example of Abstract class that has an abstract method In this example, Bike is an abstract class that contains only one abstract method run.Its implementation is provided by the Honda class.
 
+179.Example of Abstract
 
-interface in Java 23rd April
+180.In this example, if you create the instance of Rectangle class, draw() method of Rectangle class will be invoked.
 
-1:- ex : create an interface shape having method declaration for draw method.
+181.Another example of Abstract class in java.
 
-2:-In this example, the Drawable interface has
+182.Example of an abstract class that has abstract and non-abstract methods.
 
-3:-example of java interface which provides the implementation of Bank interface.
+           interface in Java 23rd April
 
-4:-ex Multiple inheritance in Java by interface. 
+183:- ex : create an interface shape having method declaration for draw method.
 
-5:- Multiple inheritance is not supported through class in java, but it is possible by an interface, why?
+184:-In this example, the Drawable interface has
 
-6:-As you can see in the above example, Printable and Showable interface have same methods but its implementation is provided by class TestTnterface1, so there is no ambiguity.A    class implements an interface, but one interface extends another interface.
+185:-example of java interface which provides the implementation of Bank interface.
 
-7:-Java Default Method in Interface.
+186:-ex Multiple inheritance in Java by interface. 
 
-8:-Java 8 Static Method in Interface.
+187:- Multiple inheritance is not supported through class in java, but it is possible by an interface, why?
 
-9:-ex Difference between abstract class and interface .
+189:-As you can see in the above example, Printable and Showable interface have same methods but its implementation is provided by class TestTnterface1, so there is no ambiguity.A    class implements an interface, but one interface extends another interface.
 
-10:-Example of abstract class and interface in Java Let's see a simple example where we are using interface and abstract class both.
+190:-Java Default Method in Interface.
+
+191:-Java 8 Static Method in Interface.
+
+192:-ex Difference between abstract class and interface .
+
+193:-Example of abstract class and interface in Java Let's see a simple example where we are using interface and abstract class both.
 
 24th april Oops Assignment
 
