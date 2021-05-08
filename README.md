@@ -177,6 +177,34 @@
 65.wap to accept a number and display the message  "number is even" if remainder of a number is 0 if divided by 2 else print the message "number is odd"
 
 66.wap to accept a number and display the message  "number is even" if remainder of a number is 0 if divided by 2
+                      
+                      6th may
+67.Addition of two numbers.
+
+68.Perform Operation + or - on float numbers.
+
+69.wap to accept 5 subject marks and display total ,per , grade.
+
+70.wap to accept empno,basic_salary, empname,designation and then display emp details.
+
+71.wap to accept 2 no. and operator like +,-and display the result.
+
+72.wap to accept 2 no. and display the greater no.
+
+73.wap to accept 3 no. and display the greater no.
+
+74.WAP to display hello world.
+
+75.WAP to display hello.
+
+76.enter and print your name
+
+77.WAP to to print and display square of number.
+
+78.WAP program for return type argument.
+
+79.
+
 
 
 
