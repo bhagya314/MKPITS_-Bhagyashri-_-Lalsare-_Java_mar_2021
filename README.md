@@ -240,6 +240,70 @@
 
 96.create a 2 array of 2 rows and 3 columns in java.
 
+           8th may
+97.wap to create an array of 3 element and display the array element using for each loop.
+98.wap to ask whether to continue or not using do while loop.
+99.call by value example.
+100.char array.
+101.wap to accept designation and calculate bonus using switch.
+102.WAP to display array element by for loop.
+103.user defined function in java wap to create a function sayhello.
+104.function with returning value and no parameters.
+105.create a non static sayhello method.
+106.function with arguments and no return type.
+107.wap to accept 2 no. and operator and display the result. using switch.
+108.wap to println output like given below using nested for loop.
+                      *
+                      * *
+                      * * *
+ 109.:-wap to accept a no and print table of that number using for loop.
+ 110.function with return type and with arguments.
+ 111.accept the value from the user.
+    13th april
+ 112.WAP for employee class.
+ 113.create a class student having fields id and name.
+ 114.create a program to used student class in different class.
+ 115.example of multiple objects.
+ 116.program using initilizing using method.
+ 117.intilizing using constructor.
+ 
+           14th april 
+ 118.array of object example.
+ 119.default constructor.
+ 120.exmple of copy ing the values of object to another object using constructor create a class book having fields booname and author and constructor with 2 parameters
+and anohter constructor to copy values of one object to another object. and display method.
+121.:-example of copying values without constructor.
+122.static variable example.
+123.class having constructor and method with the same name of class.. overloading.
+124.array of object by accepting values from the user.
+
+           15th april This KeyWord          
+125.example of calling another constructor using this keyword.
+126.constructor chaning example.
+127.create a class customer having field custno and custname and method getdata and showdata.
+128.to invoke current class constructor.
+129.example of this to call method.
+130.calling parameterized constrctor from default constructor using this key word.
+131.to refer to current class method.
+132.constructor chaining.
+
+           16th april 
+133.:-create a parent class person having field name and address , create a derived class student inherited from person class having additional fields rno and marks.
+134.create a parent class person having field name and address and create a derived class student inherited from person class having additional fields rno and marks. and methods getstudentddata and displaystudent data.
+135.create a parent class person having field name and address and methods getpersondata and displaypersondata and create a derived class student inherited from person class having additional fields rno and marks. and methods getstudentddata and displaystudent data.
+136.calling getpersondata method from getstudentdata method .
+137.example of multilevel inheritance
+  create a class person , then create a class student derived from person class and then create a class parttimestudent derieved from student class.
+138.:-example of hierarchical inheritance.
+  create a base class person and create a student class derieved from person class and create another class employee derieved from person class  
+                      19th april method overloading
+139.:-Method Overloading: changing data type of arguments.
+140.Method Overloading: changing no. of arguments.
+141.In this example, Employee has an object of Address, address object contains its own informations such
+as city, state, country etc.
+142.:-this example, we have created the reference of Operation class in the Circle class.
+
+
 
 
 
