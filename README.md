@@ -554,4 +554,33 @@ separate methods for each operation whose real and imaginary parts are entered b
 222.the simple example of object cloning
 
 223.the simple example of object cloning.
-224.
+
+           28th april StringBufferAndStringBuilder
+
+224.Example of StringBoolean.
+225.example of String Buffer Delete
+226.Example String Buffer Delete.
+227.example of String Buffer.
+228.another examplr of String Buffer
+229.third example of String Buffer.
+230.fourth example of String Buffer
+231.example of String Buffer replace
+232.Example of String Buffer Revers
+233.example of String Buffer Revers.
+234.example of String Builder Capacity
+235.example of String Builder Delete
+236.example of String Builder
+237.Example of String Builder Insert
+238.example of String Builder Replace/
+239.Example of String Concat
+240.example of  String Empty
+241.Example of  String Equals
+242.example of string
+243.example of String Ignore.
+244.example of String Index
+245.Example of String Lower Case
+246.example of String Substring
+247.example ofString Split
+248.example of String upper case
+249.
+
