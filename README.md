@@ -612,5 +612,28 @@ separate methods for each operation whose real and imaginary parts are entered b
 269.Example of event handling by Annonymous class:
 270.Calculator design by awt
 
+           4th may CheckBox Button Lable TextArea
+271.Example of awt for bank deposit and withdrawl
+272.Example of AWT.chose what is capital of india and maharashtra.
+273.Java AWT Button Example
+274.Java AWT Button Example with ActionListener
+275.Java AWT Checkbox Example
+276.Java AWT Checkbox Example with ItemListener
+277.example of checkbox to do additon and substraction of 2 no.
+278.Java AWT CheckboxGroup Example
+279.registration form code
+280.Java AWT CheckboxGroup Example with ItemListener
+281.Java AWT Choice Example
+282.Java AWT Choice Example with ActionListener
+283.Java Label Example
+284.Java AWT Label Example with ActionListener
+285.registeration form example
+286.Java AWT TextArea Example
+287.Java AWT TextArea Example with ActionListener
+288.Java AWT TextArea Example-AWT TextArea Class Declaration
+289.another Java AWT TextArea Example with ActionListener
+290.Java AWT TextField Example
+291.Java AWT TextField Example with ActionListener
+
 
 
