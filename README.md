@@ -582,5 +582,21 @@ separate methods for each operation whose real and imaginary parts are entered b
 246.example of String Substring
 247.example ofString Split
 248.example of String upper case
-249.
+                      29th april
+249.simple example of java custom exception.
+250.a simple example of java multi-catch block.
+251.secound example of java multi-catch block.
+252.In this example, try block contains two exceptions. But at a time only one exception occurs and its corresponding catch block is invoked.
+253.third example of java multi-catch block.
+254.In this example, we generate NullPointerException, but didn't provide the corresponding exception type.In such case, the catch block containing the parent exception class Exception will invoked.
+255.simple example of java nested try block.
+256.the example of java throws clause which describes that checked exceptions can be propagated by throws keyword.
+257.In case you handle the exception, the code will be executed fine whether exception occurs during the program or not.
+258.Program if exception does not occur
+259.B)Program if exception occurs
+
+                      30th april AnonymousInnerClass
+260.Java anonymous inner class example using class
+261.Java anonymous inner class example using interface
+262.
 
