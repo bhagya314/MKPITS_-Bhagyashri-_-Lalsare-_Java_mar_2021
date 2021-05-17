@@ -598,5 +598,11 @@ separate methods for each operation whose real and imaginary parts are entered b
                       30th april AnonymousInnerClass
 260.Java anonymous inner class example using class
 261.Java anonymous inner class example using interface
-262.
+                      
+                      AWT basic 30th april
+262.awt calculator frame example
+263.Simple example of AWT by inheritance
+264.Simple example of AWT by association
+265.AWT frame example
+
 
