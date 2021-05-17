@@ -605,4 +605,12 @@ separate methods for each operation whose real and imaginary parts are entered b
 264.Simple example of AWT by association
 265.AWT frame example
 
+           3 may AwtEventHandling
+266.Example of event handling within class:
+267.another Example of event handling within class:
+268.Example of event handling by Outer class:
+269.Example of event handling by Annonymous class:
+270.Calculator design by awt
+
+
 
