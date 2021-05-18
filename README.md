@@ -704,7 +704,32 @@ separate methods for each operation whose real and imaginary parts are entered b
 
 290.Java AWT TextField Example
 
-291.Java AWT TextField Example with ActionListener
+291.Java AWT TextField Example with ActionListener.
+
+                      5th may
+292-Awt example of area and circumference.
+293-awt example of student information
+294-AWT example for product details
+295-AWT example,char is vowel or not
+296-AWT example table.
+
+                      6th may
+297-Java AWT Dialog Example
+298-Java AWT List Example
+299-another Java AWT List Example
+300-Java AWT MenuItem and Menu Example
+301-example Java AWT MenuItem and Menu Example
+302-Java AWT Panel Exampl
+303-example of frame with 2 panels
+304-Java AWT PopupMenu Exampl
+305-Java AWT Scrollbar Example
+306-Java AWT Scrollbar Example with AdjustmentListener
+307-example scrollbar horizontal
+308-Java AWT Toolkit Example
+309-Java AWT Toolkit Example: beep()
+310-Java AWT Toolkit Example: Change TitleBar Icon
+
+
 
 
 
