@@ -554,4 +554,182 @@ separate methods for each operation whose real and imaginary parts are entered b
 222.the simple example of object cloning
 
 223.the simple example of object cloning.
-224.
+
+           28th april StringBufferAndStringBuilder
+
+
+224.Example of StringBoolean.
+
+225.example of String Buffer Delete
+
+226.Example String Buffer Delete.
+
+227.example of String Buffer.
+
+228.another examplr of String Buffer
+
+229.third example of String Buffer.
+
+230.fourth example of String Buffer
+
+231.example of String Buffer replace
+
+232.Example of String Buffer Revers
+
+233.example of String Buffer Revers.
+
+234.example of String Builder Capacity
+
+235.example of String Builder Delete
+
+236.example of String Builder
+
+237.Example of String Builder Insert
+
+238.example of String Builder Replace/
+
+239.Example of String Concat
+
+240.example of  String Empty
+
+241.Example of  String Equals
+
+242.example of string
+
+243.example of String Ignore.
+
+244.example of String Index
+
+245.Example of String Lower Case
+
+246.example of String Substring
+
+247.example ofString Split
+
+248.example of String upper case
+
+                      29th april
+
+249.simple example of java custom exception.
+
+250.a simple example of java multi-catch block.
+
+251.secound example of java multi-catch block.
+
+252.In this example, try block contains two exceptions. But at a time only one exception occurs and its corresponding catch block is invoked.
+
+253.third example of java multi-catch block.
+
+254.In this example, we generate NullPointerException, but didn't provide the corresponding exception type.In such case, the catch block containing the parent exception class Exception will invoked.
+
+255.simple example of java nested try block.
+
+256.the example of java throws clause which describes that checked exceptions can be propagated by throws keyword.
+
+257.In case you handle the exception, the code will be executed fine whether exception occurs during the program or not.
+
+258.Program if exception does not occur
+
+259.B)Program if exception occurs
+
+
+                      30th april AnonymousInnerClass
+
+260.Java anonymous inner class example using class
+
+261.Java anonymous inner class example using interface
+  
+  
+                      AWT basic 30th april
+
+262.awt calculator frame example
+
+263.Simple example of AWT by inheritance
+
+264.Simple example of AWT by association
+
+265.AWT frame example
+
+           3 may AwtEventHandling
+
+266.Example of event handling within class:
+
+267.another Example of event handling within class:
+
+268.Example of event handling by Outer class:
+
+269.Example of event handling by Annonymous class:
+
+270.Calculator design by awt
+
+           4th may CheckBox Button Lable TextArea
+
+271.Example of awt for bank deposit and withdrawl
+
+272.Example of AWT.chose what is capital of india and maharashtra.
+
+273.Java AWT Button Example
+
+274.Java AWT Button Example with ActionListener
+
+275.Java AWT Checkbox Example
+
+276.Java AWT Checkbox Example with ItemListener
+
+277.example of checkbox to do additon and substraction of 2 no.
+
+278.Java AWT CheckboxGroup Example
+
+279.registration form code
+
+280.Java AWT CheckboxGroup Example with ItemListener
+
+281.Java AWT Choice Example
+
+282.Java AWT Choice Example with ActionListener
+
+283.Java Label Example
+
+284.Java AWT Label Example with ActionListener
+
+285.registeration form example
+
+286.Java AWT TextArea Example
+
+287.Java AWT TextArea Example with ActionListener
+
+288.Java AWT TextArea Example-AWT TextArea Class Declaration
+
+289.another Java AWT TextArea Example with ActionListener
+
+290.Java AWT TextField Example
+
+291.Java AWT TextField Example with ActionListener.
+
+                      5th may
+292-Awt example of area and circumference.
+293-awt example of student information
+294-AWT example for product details
+295-AWT example,char is vowel or not
+296-AWT example table.
+
+                      6th may
+297-Java AWT Dialog Example
+298-Java AWT List Example
+299-another Java AWT List Example
+300-Java AWT MenuItem and Menu Example
+301-example Java AWT MenuItem and Menu Example
+302-Java AWT Panel Exampl
+303-example of frame with 2 panels
+304-Java AWT PopupMenu Exampl
+305-Java AWT Scrollbar Example
+306-Java AWT Scrollbar Example with AdjustmentListener
+307-example scrollbar horizontal
+308-Java AWT Toolkit Example
+309-Java AWT Toolkit Example: beep()
+310-Java AWT Toolkit Example: Change TitleBar Icon
+
+
+
+
+
