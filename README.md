@@ -729,6 +729,34 @@ separate methods for each operation whose real and imaginary parts are entered b
 309-Java AWT Toolkit Example: beep()
 310-Java AWT Toolkit Example: Change TitleBar Icon
 
+311-the simple example to read data of file using BufferedInputStream 13
+312-Example of BufferedOutputStream class
+313-Java FileInputStream example 1: read single characte
+314-Java FileInputStream example 2: read all characters
+315-awt example to input stream
+316-Java FileOutputStream Example 1: write byte
+317-Java FileOutputStream example 2: write strin
+318-awt example to write data to file
+319-In this example, we are printing the data of two files testin.txt and testout.txt.
+320-Example that reads the data from two files and writes into another file In this example, we are writing the data of two files testin1.txt and testin2.txt into another file named testout.txt.
+321-SequenceInputStream example that reads data using enumeration
+322-equence Input Stream example
+
+323-Example of CharArrayWriter Class: 17
+324-Java FileReader Example In this example, we are reading the data from the text file testout.txt using Java FileReader class.
+325-Java FileWriter Example , In this example, we are writing the data in the file testout.txt using Java FileWriter class.
+326-Example of java PrintStream class , In this example, we are simply printing integer and string value.
+327-Java PrintWriter Example,Let's see the simple example of writing the data on a console and in a text file testout.txt using Java PrintWriter class.
+328-simultanious writing and reading data from a file
+329-example of The join() method
+330-Example of join(long miliseconds) method
+331-joint example
+332-Example of currentThread() method
+334-Let's understand it by the example given below:
+
+
+
+
 
 
 
