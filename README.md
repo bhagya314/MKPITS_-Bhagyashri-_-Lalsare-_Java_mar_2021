@@ -884,6 +884,17 @@ separate methods for each operation whose real and imaginary parts are entered b
 462-Example of networking awt client side
 
 
+                      31st May
+Example of Sending DatagramPacket by DatagramSocket
+Example of Receiving DatagramPacket by DatagramSocket
+Java HttpURLConnecton Example
+example of InetAddress class to get ip address of www.google.com website.
+Example of Java URLConnection class
+Example of Java URL class
+another example URL class in Java.
+
+
+
 
 
 
