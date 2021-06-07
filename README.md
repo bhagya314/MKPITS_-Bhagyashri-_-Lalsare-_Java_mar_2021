@@ -748,11 +748,67 @@ separate methods for each operation whose real and imaginary parts are entered b
 326-Example of java PrintStream class , In this example, we are simply printing integer and string value.
 327-Java PrintWriter Example,Let's see the simple example of writing the data on a console and in a text file testout.txt using Java PrintWriter class.
 328-simultanious writing and reading data from a file
-329-example of The join() method
+
+329-example of The join() method  18
 330-Example of join(long miliseconds) method
 331-joint example
 332-Example of currentThread() method
 334-Let's understand it by the example given below:
+335-Java Thread Example by extending Thread class
+336-Java Thread Example by implementing Runnable interface
+337-another Java Thread Example by implementing Runnable interface
+338-Example of naming a thread
+339-Example of currentThread() method
+340-Example of priority of a Thread:
+341-Another Example of priority of a Thread:
+342-What if we call run() method directly instead start() method?
+343-MainThreadStack Problem if you direct call run() method
+344-Example of sleep method in java
+
+345-Example of Java Thread Pool,Let's see a simple example of java thread pool using ExecutorService and Executors. 19
+
+346-ArrayList example where we are adding books to list and printing all the books. 24
+347-Java ArrayList Example
+348-example to traverse ArrayList elements using the Iterator interface.
+349-example to traverse the ArrayList elements using the for-each loop
+350-Get and Set ArrayList , The get() method returns the element at the specified index, whereas the set() method changes the element.
+351-Java ArrayList example of isEmpty() method
+352-Java ArrayList example of isEmpty() method
+353-Java ArrayList example of retainAll() method
+354-example to serialize an ArrayList object and then deserialize it.
+355-Java ArrayList example to add elements
+356-How to Sort ArrayList
+357-example to traverse the ArrayList elements through other ways
+358-example where we are storing Student class object in an array list.
+359-awt example of array list
+360-program on Iterating ArrayList using For-each loop
+361-array list awt example
+362-program on get and set method of arraylist using awt
+363-wap to create colllection of 5 students using arraylist class.
+364-repeat the above program by accepting name from the user.
+365-program on Traversing list through Iterator
+366-program on traversing through listiterator
+367-example of set and get of arraylist class.
+368-program to sort arraylist elements
+369-program on arraylist sorting in swing
+370-program on traversing arraylist using for loop
+371-program on traversing arraylist using foreach loop
+
+372-example where we are using ArrayList and LinkedList both. 25
+373-example of Java LinkedHashSet class.
+374-Java LinkedHashSet example ignoring duplicate Elements
+375-Java LinkedHashSet Example: Book
+376-Java LinkedList Example
+377-Java LinkedList example to add elements
+378-Java LinkedList example to remove elements
+379-Java LinkedList Example to reverse a list of elements
+
+
+
+
+
+
+
 
 
 
