@@ -803,6 +803,85 @@ separate methods for each operation whose real and imaginary parts are entered b
 378-Java LinkedList example to remove elements
 379-Java LinkedList Example to reverse a list of elements
 
+380-Program of performing two tasks by two threadsEx4
+381-Simple Example of garbage collection in java.
+382-Simple Example of garbage collection in java example1.
+383-Simple Example of garbage collection in java example2.
+384-The problem without Synchronization.
+385-Example of java synchronized method
+386-Account class using anonymous class
+387-example account class Program of synchronized method by using annonymous class
+389-Example of Deadlock in java
+390-Example of synchronized block
+391-Program of synchronized block by using annonymous class example1
+392-Program of synchronized block by using annonymous class example2
+393-Example of static synchronization
+394-Same example of static synchronization by annonymous class using annonymous class to create the threads
+395-Example of inter thread communication in java
+396-Simple example of StringTokenizer class
+397-Example of nextToken(String delim) method of StringTokenizer classexample1
+398-Example of nextToken(String delim) method of StringTokenizer class example2
+399-Example of nextToken(String delim) method of StringTokenizer class example3
+400-Java ArrayList Example
+401-example to traverse ArrayList elements using the Iterator interface.
+402-an example to traverse the ArrayList elements using the for-each loop
+403-Get and Set ArrayList example
+404-collection sort arraylist example
+405-Iterating Collection through remaining ways, an example to traverse the ArrayList elements through other ways
+406-an example where we are storing Student class object in an array list.
+408-program of Student on Traversing list through Iterator
+409-program of student on Iterating ArrayList using For-each loop
+410-Student arraylist example by usinu Awt.
+411-example of set and get of arraylist class.
+412-program on get and set method of arraylist using awt
+413-program on get and set method of arraylist using awt swing
+414-Student- program to sort arraylist elements
+415-program on arraylist sorting in swing
+416-program on traversing through listiterator awt
+417-program on traversing arraylist using for loop
+418-program on traversing arraylist using foreach loop
+419-example where we are storing Student class object in an array list.(accept the rno,name and age from the user)
+420-example where we are storing employee class object (empno, empname, designation, salary) in an array list using awt or swing.
+421-wap to create colllection of 5 product using arraylist class.
+422-wap to create colllection of program by accepting product name from the user.
+423-Product program on Traversing list through Iterator
+424-Product program on Iterating ArrayList using For-each loop
+425-Awt Product arraylist example
+426-Product example of set and get of arraylist class.
+427-Product program on get and set method of arraylist using awt
+428-Product program on get and set method of arraylist using awt swing
+429-Product program to sort arraylist elements
+430-Product program on arraylist sorting in swing
+431Product program on traversing through listiterator
+432)Product program on traversing arraylist using for loop
+433)Product program on traversing arraylist using foreach loopprogram on linkedlist class
+435)program on linkedlist to add element at particular position , addfirst method ,addlast method .
+436)program on removing elements from linkedlist.(remove, removeall, removefirst etc methods)
+437- LinkedList Example to reverse a list of elements
+438)example to create linkedlist collection of book class.
+439)program to create collection of fruits using List interface.
+440)program to How to convert Array to List
+441)program to How to convert List to Array.
+442)9 program on list to add element using set and retrieve element using get method.
+443)program to sort element of list collection.
+444)program on listiterator to traverse in forward and backword direction.
+445)program to create collection of books using List interface .
+446)program on adding element in hashset .
+447)program on removing element in hashset .
+448)program to create hashset collection using arraylist collection.
+449)- create a hashset collection for book.
+450)- program on linkedhashset class.
+451)program on linkedhashset ignoring duplicate elements
+452)program to create collection of book using linkedhashset.
+453)program to create collection using treeset class.
+454)program to display elements in reverse order in treeset class.
+456)example to perform various NavigableSet operations in treeset class
+457)example to perform various SortedSetSet operations.
+458)example to create book collection using treeset class.
+459-Example of networking server side
+460-Example of networking client side
+461-Example of networking awt server side
+462-Example of networking awt client side
 
 
 
@@ -817,3 +896,5 @@ separate methods for each operation whose real and imaginary parts are entered b
 
 
 
+
+wtwt
