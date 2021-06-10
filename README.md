@@ -885,23 +885,23 @@ separate methods for each operation whose real and imaginary parts are entered b
 
 
                       31st May
-Example of Sending DatagramPacket by DatagramSocket
-Example of Receiving DatagramPacket by DatagramSocket
-Java HttpURLConnecton Example
-example of InetAddress class to get ip address of www.google.com website.
-Example of Java URLConnection class
-Example of Java URL class
-another example URL class in Java.
+463-Example of Sending DatagramPacket by DatagramSocket
+464-Example of Receiving DatagramPacket by DatagramSocket
+465-Java HttpURLConnecton Example
+466-example of InetAddress class to get ip address of www.google.com website.
+467-Example of Java URLConnection class
+468-Example of Java URL class
+469-another example URL class in Java.
 
                       7 June JDBC 
 
-jdbc with mysql connection.
+470-jdbc with mysql connection.
 
                       8 JUNE 
-create a jdbc program to connect to mysql database.
-create a jdbc program to create table into the database.
-create a program to create table student .
-create a program to delete record from company.(accept the value from the user)
+471-create a jdbc program to connect to mysql database.
+472-create a jdbc program to create table into the database.
+473-create a program to create table student .
+474-create a program to delete record from company.(accept the value from the user)
 create a program to insert records into company table.(accept the value from the user).
 program to insert records in our employee table created.
 create a swing form to insert  ,update and delete and search records  into shop table.
