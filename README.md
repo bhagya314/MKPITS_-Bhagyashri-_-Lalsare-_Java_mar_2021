@@ -902,11 +902,11 @@ separate methods for each operation whose real and imaginary parts are entered b
 472-create a jdbc program to create table into the database.
 473-create a program to create table student .
 474-create a program to delete record from company.(accept the value from the user)
-create a program to insert records into company table.(accept the value from the user).
-program to insert records in our employee table created.
-create a swing form to insert  ,update and delete and search records  into shop table.
-create a program to update record
-create a program to view record from company table
+475-create a program to insert records into company table.(accept the value from the user).
+476-program to insert records in our employee table created.
+477-create a swing form to insert  ,update and delete and search records  into shop table.
+478-create a program to update record
+479-create a program to view record from company table
 
 
 
