@@ -893,7 +893,20 @@ Example of Java URLConnection class
 Example of Java URL class
 another example URL class in Java.
 
+                      7 June JDBC 
 
+jdbc with mysql connection.
+
+                      8 JUNE 
+create a jdbc program to connect to mysql database.
+create a jdbc program to create table into the database.
+create a program to create table student .
+create a program to delete record from company.(accept the value from the user)
+create a program to insert records into company table.(accept the value from the user).
+program to insert records in our employee table created.
+create a swing form to insert  ,update and delete and search records  into shop table.
+create a program to update record
+create a program to view record from company table
 
 
 
