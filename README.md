@@ -908,7 +908,17 @@ separate methods for each operation whose real and imaginary parts are entered b
 478-create a program to update record
 479-create a program to view record from company table
 
-
+           10 and 11 June
+480-Basic html tag example
+481-align center tag example
+482-Style example
+483-another example of style
+484-Div example
+485-Basic menu example
+486-Table example
+487-table cell example
+488-table collapse border example
+489-
 
 
 
